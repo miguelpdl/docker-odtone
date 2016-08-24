@@ -1,0 +1,3 @@
+[submodule "src/odtone"]
+	path = src/odtone
+	url = https://github.com/miguelpdl/ODTONE.git
